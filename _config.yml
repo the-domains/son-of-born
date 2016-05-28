@@ -1,0 +1,28 @@
+name: Son of Born
+favicon: null
+layout_spectrum: 0.6804110722150654
+typography_spectrum: 0.9490872852038592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.12520261178724468
+  lightness: 0.5876179921906441
+  saturation: 0.7503247349523008
+  rhythmicContrast: 0.439087555045262
+purpose: []

@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Son of Born]]></title>
-        <description><![CDATA[Son of Born]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Son of Born - Music & Mad Musings]]></title>
+        <description><![CDATA[Son of Born - Music & Mad Musings]]></description>
+        <link>http://sonofborn.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 19:05:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 07:33:16 GMT</lastBuildDate>
+        <atom:link href="http://sonofborn.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe6eb43f-94c5-47db-9207-f647f71bdbaf.jpg">]]></description>
+            <link>http://sonofborn.com/you-know-its-been-a-long-day-of-music-making-when-you-look/index.html</link>
+            <guid isPermaLink="false">867e8f1a-8bb0-45b2-8b04-e00fdeda0c23</guid>
+            <pubDate>Mon, 20 Jun 2016 07:33:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Website Launch!]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdfa34b4-f0f3-4f46-b4a7-68bd21b3012c.jpg">]]></description>
-            <link>undefinedwebsite-launch/index.html</link>
+            <link>http://sonofborn.com/website-launch/index.html</link>
             <guid isPermaLink="false">d9fd9289-59f8-4ce0-8857-6ab730773b5c</guid>
             <pubDate>Sat, 28 May 2016 19:05:54 GMT</pubDate>
         </item>
